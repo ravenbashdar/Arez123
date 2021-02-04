@@ -1,5 +1,4 @@
-#!/usr/bin/python
-# -*- coding: UTF-8 -*-
+#!/bin/bash
 
 detect_distro() {
     if [[ "$OSTYPE" == linux-android* ]]; then
